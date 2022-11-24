@@ -40,6 +40,11 @@ geringerer Eigenaufwand zur Fertigstellung ohne Löten elektronischer Module
 nötig. Dieses Projekt is zur Zeit in der Entwicklung und hoffentlich im Laufe
 des Jahres 2023 benutzbar.
 
+### OpenBikeSensor Display
+
+Dieses Projekt enthält die Platine für das neue kompakte Display mit Platine
+und aufgelötetem Taster.
+
 ## Bestellung bei Platinenherstellern
 
 Ein Export der Projektdateien als "Gerber-Files" liegt im jeweiligen
